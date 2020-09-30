@@ -4,7 +4,8 @@
   "description": "My first login system",
   "main": "app.js",
   "scripts": {
-    "startdev": "nodemon app.js"
+    "startdev": "nodemon app.js",
+    "start": "node app.js"
   },
   "repository": {
     "type": "git",
